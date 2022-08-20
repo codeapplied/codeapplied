@@ -29,7 +29,7 @@ I'm Joypal Navaneeth a student and an engineer from [IIT Madras](https://iitmaa.
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV]( Working on it1 Will be available soon meantime you could check my linkenID)
+- :paperclip: [My Resume/CV] ( Working on it1 Will be available soon meantime you could check my linkenID)
 - :email: joypal.careers@gmail.com
 
 
