@@ -1,7 +1,6 @@
 ## Hi I'm Navaneeth (aka J) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Joypal Navaneeth a student and an engineer from [IIT Madras](https://iitmaa.org/profile/1818686). I Spend most of my time coding outstanding projects in ML, AI.
-
+I'm Joypal Navaneeth a student and an engineer from [IIT Madras](https://iitmaa.org/profile/1818686). 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@studioforj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[https://twitter.com/Ipenywis](https://twitter.com/studioforj))](https://twitter.com/studioforj) [![Mail Badge](https://img.shields.io/badge/-codepplied-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/codeapplied) [![Linkedin Badge](https://img.shields.io/badge/-JoypalNavaneeth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joypalnavaneeth/) [![Mail Badge](https://img.shields.io/badge/-@joypalnavaneeth-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/joypalnavaneeth) [![Mail Badge](https://img.shields.io/badge/-Navaneeth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joypal@alumni.iitm.ac.in)
